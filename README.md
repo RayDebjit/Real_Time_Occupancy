@@ -9,3 +9,7 @@ Here I made a simple RTO system through Ultrasonic Sensor which Detect the prese
 * Resistors
 * Jumper Wires
 * LEDs
+
+## Video Link
+A demo video of the above model
+https://drive.google.com/file/d/1twPwpQ717OtOZbZdbxe0VknC5uxUV0Zv/view?usp=sharing
