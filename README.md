@@ -13,3 +13,6 @@ Here I made a simple RTO system through Ultrasonic Sensor which Detect the prese
 ## Video Link
 A demo video of the above model
 https://drive.google.com/file/d/1twPwpQ717OtOZbZdbxe0VknC5uxUV0Zv/view?usp=sharing
+
+## Circuit Diagram
+![TinkerCAD Diagram](https://i.imgur.com/qy0mky9.png)
